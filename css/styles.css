@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(31, 29, 26);
+  color: red;
+
+}
+
+.sidebar {
+  float: right;
+  background-color: slategray;
+  color: red;
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: '🎸';
+  font-size: larger;
+}
+
+.main {
+  box-sizing: border-box;
+}
