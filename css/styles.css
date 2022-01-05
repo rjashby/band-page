@@ -1,7 +1,7 @@
 body {
   background-color: rgb(31, 29, 26);
   color: red;
-
+  margin: 20px;
 }
 
 .sidebar {
@@ -9,6 +9,8 @@ body {
   background-color: slategray;
   color: red;
   box-sizing: border-box;
+  border: solid red 3px;
+  padding: 5px;
 }
 
 li {
@@ -18,4 +20,12 @@ li {
 
 .main {
   box-sizing: border-box;
+  width: 55%;
+  border: solid red 30px;
+  padding: 5px;
+}
+
+img {
+  width: 55%;
+  border: solid red 3px;
 }
